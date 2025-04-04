@@ -10,8 +10,8 @@
 
 ## Виконана робота:
 
-![](https://raw.githubusercontent.com/MarryBye/workshop_5/refs/heads/main/images/image.png)  
-![](https://raw.githubusercontent.com/MarryBye/workshop_5/refs/heads/main/images/image2.png)  
+![](https://raw.githubusercontent.com/MarryBye/workshop_5/refs/heads/master/images/image.png?token=GHSAT0AAAAAAC7SG7KLP5IZZEWCWUPOQIKMZ7PUOQQ)  
+![](https://raw.githubusercontent.com/MarryBye/workshop_5/refs/heads/master/images/image2.png?token=GHSAT0AAAAAAC7SG7KLDLGE3P2QQBCNI7GEZ7PUOYA)  
 
 Ліворуч - референси, праворуч - те, що було зроблено.
 Створений шаблон додатку для телефону, а також іконки Google Chrome.
